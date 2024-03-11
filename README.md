@@ -11,5 +11,16 @@ In this project, I used the Azure AI Search resource and an Azure AI Services re
 #### *Abaixo segue o link base para o passo a passo*
 [Explore Azure AI Services](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html)
 
-
+![image](https://github.com/sezarprog/LabAI900-Dio-Azure-Cognitive-Search-/blob/main/telas/tela1.png?raw=true)
+-
+![image](https://github.com/sezarprog/LabAI900-Dio-Azure-Cognitive-Search-/blob/main/telas/tela2.png?raw=true)
+-
+![image](https://github.com/sezarprog/LabAI900-Dio-Azure-Cognitive-Search-/blob/main/telas/tela3.png?raw=true)
+-
+![image](https://github.com/sezarprog/LabAI900-Dio-Azure-Cognitive-Search-/blob/main/telas/tela4.png?raw=true)
+-
+![image](https://github.com/sezarprog/LabAI900-Dio-Azure-Cognitive-Search-/blob/main/telas/tela5.png?raw=true)
+-
+![image](https://github.com/sezarprog/LabAI900-Dio-Azure-Cognitive-Search-/blob/main/telas/tela6.png?raw=true)
+-
 # -- OBS: Em atualização!😉--
