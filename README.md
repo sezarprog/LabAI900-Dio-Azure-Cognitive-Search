@@ -23,4 +23,8 @@ In this project, I used the Azure AI Search resource and an Azure AI Services re
 -
 ![image](https://github.com/sezarprog/LabAI900-Dio-Azure-Cognitive-Search-/blob/main/telas/tela6.png?raw=true)
 -
+## As telas acima adicionadas são exemplos do passo a passo, basta seguir o link do início para obter sucesso!
+
+> # Experimentos
+
 # -- OBS: Em atualização!😉--
